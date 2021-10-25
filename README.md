@@ -14,7 +14,7 @@ Primeiramente obrigado pela oportunidade de estar realizando este teste.
 
 * Foi seguido a ideia do paradigma de objeto orientado.
 
-  [Link direto do exercício](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste1)
+  [Link direto do teste 1](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste1)
 
 ### Teste 2
 
@@ -26,7 +26,7 @@ Primeiramente obrigado pela oportunidade de estar realizando este teste.
 
 * Após a conclusão do segundo for, a ultima posição já se encontrava na casa esperada, então eu diminuía o tamanho dele com `tamanho--`.
 
-  [Link direto do exercício](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste2/application)
+  [Link direto do teste 2](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste2/application)
 
 ### Teste 3
 
@@ -36,7 +36,7 @@ Primeiramente obrigado pela oportunidade de estar realizando este teste.
 
 * Percorri o numero escolhido e rodava um for multiplicando o numero de vezes iniciando com 1 até chegar ao numero sorteado.
 
-  [Link direto do exercício](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste3/application)
+  [Link direto do teste 3](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste3/application)
 
 ### Teste 4
 
@@ -45,7 +45,7 @@ Primeiramente obrigado pela oportunidade de estar realizando este teste.
 * Utilizei a classe `Classe Random` do Java, no qual ela escolhe automaticamente o número a ser verificado.
 * Fiz um `for` aonde verifica se ele era múltiplo de 5 ou 3 pelo `%=0`. Caso fosse verdadeiro ele somava estes números.
 
-[Link direto do exercício](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste4/application)
+[Link direto do teste 4](https://github.com/jrodrigo1981/Tinnova/tree/master/teste/src/main/java/br/com/tinnova/teste4/application)
 
 ### Teste 5
 
@@ -71,7 +71,7 @@ Primeiramente obrigado pela oportunidade de estar realizando este teste.
 
   
 
-  [Link direto do exercício](https://github.com/jrodrigo1981/Tinnova/tree/master/Cadastro%20de%20Veiulo%20API/Backend/tinnova/src)
+  [Link direto do teste API](https://github.com/jrodrigo1981/Tinnova/tree/master/Cadastro%20de%20Veiulo%20API/Backend/tinnova/src)
 
 ### Observações
 
